@@ -1,0 +1,18 @@
+{
+  "name": "findcompanies",
+  "version": "0.0.1",
+  "description": "Find Companies within radius ( for the demonstration purposes )",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Pawel Dubiel",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.0"
+  }
+}
